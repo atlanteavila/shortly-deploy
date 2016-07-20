@@ -2,6 +2,9 @@
   "name": "shortly-express",
   "version": "0.0.1",
   "description": "shortly using express",
+  "engines": {
+      "node" : "0.12.0"
+    },
   "main": "server.js",
   "repository": "",
   "license": "Proprietary",
@@ -9,7 +12,7 @@
   "dependencies": {
     "knex": "~0.5.7",
     "bookshelf": "~0.6.4",
-    "sqlite3": "~3.8.10",
+    "sqlite3": "~3.0.5",
     "express": "~3.4.8",
     "lodash": "~3.5.0",
     "express-partials": "~0.2.0",
