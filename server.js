@@ -6,4 +6,4 @@ app.listen(port_number);
 
 //app.listen(port);
 
-console.log('Server now listening on port ' + port);
+console.log('Server now listening on port ' + port_number);
