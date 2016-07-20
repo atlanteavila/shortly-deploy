@@ -19,7 +19,6 @@
     "express": "~3.4.8",
     "lodash": "~3.5.0",
     "express-partials": "~0.2.0",
-    "express-session": "^1.7.2",
     "ejs": "~0.8.5",
     "mocha": "^1.17.1",
     "request": "^2.34.0",
